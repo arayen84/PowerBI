@@ -14,3 +14,8 @@ For data connections and transformations, I made effective use of Power Query. A
 
 
 ## <img width="347" alt="Screenshot 2023-11-01 145850" src="https://github.com/arayen84/PowerBI/assets/52690254/a2382ca5-aa17-4005-95b9-068a3d680b4f">
+
+
+
+### Students_Term_Data
+I downloaded the raw data into Power BI, then proceeded to transform and clean the data. This involved removing excessive columns, eliminating unnecessary rows, and deduplicating the dataset. Additionally, I created new columns by applying conditional logic using 'if-else' conditions. To summarize the results, I generated a pivot table using a matrix visualization to examine the fees collected for each department.
